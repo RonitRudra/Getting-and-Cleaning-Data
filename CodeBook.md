@@ -111,7 +111,7 @@ The tables below describe the column variables of the tidy data set:
   
   * Column 3 to 68 : These columns contain mean of the numeric data for each of the initially measured sensor data. The mean is calculated per subject per activity. The nomenclature is defined as below:
     + Leading lowercase letter defines `t` for time domain and `f` for frequency domain
-    + Subsequently `BodyAcc` defines acceleration of the body after subtracting gravity and `GravityAcc` defines total acceleratiob of the sensor whose units are in metres/second squared. `Gyro` defines angular velocity of sensor in radians/sec.
+    + Subsequently `BodyAcc` defines acceleration of the body after subtracting gravity and `GravityAcc` defines total acceleration of the sensor whose units are in metres/second squared. `Gyro` defines angular velocity of sensor in radians/sec.
     + `X`, `Y`, `Z` define vector in cartesian coordinates.
 
   
