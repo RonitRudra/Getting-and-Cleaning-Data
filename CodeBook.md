@@ -2,13 +2,12 @@
 title: "CodeBook"
 author: "Ronit Rudra"
 date: "Saturday, April 25, 2015"
-output: html_document
 ---
 
-####This codebook contains information about the [run_analysis.R]() script file:
+####This codebook contains information about the [run_analysis.R](https://github.com/RonitRudra/Getting-and-Cleaning-Data/blob/master/run_analysis.R) script file:
 <ul>
-<li>*__Script Walkthrough__*</li>
-<li>*__Variables__*</li>
+<li>Script_Walkthrough</li>
+<li>Variables</li>
 </ul>
 
 ####__*Script Walkthrough*__####
